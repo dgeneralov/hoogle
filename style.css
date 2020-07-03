@@ -1,0 +1,21 @@
+
+.form{
+    margin:200px auto;
+    display: grid;
+    grid-row: 1fr / 1fr;
+}
+
+.search{ 
+   margin:0 auto;
+}
+.search input{
+    width: 400px;
+    height: 30px;
+}
+
+.text{
+    color:#999;;
+    font-size: 80px;
+    margin: 0 auto;
+}
+
