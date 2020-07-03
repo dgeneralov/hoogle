@@ -1,6 +1,6 @@
 
 .form{
-    margin:200px auto;
+    margin:0 auto;
     display: grid;
     grid-row: 1fr / 1fr;
 }
